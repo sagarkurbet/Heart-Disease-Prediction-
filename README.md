@@ -17,3 +17,5 @@
 3. Applying Classification techniques to get best model with best accuracy . 
 4. Among three classifier algorithms(Logistic,Random forest, KNN). 
 5. Logistic Regression fits the best model with an accuracy of 88.52% with improved ROC Curve, precision, recall, f1-score.
+6. For example the below image shows the prediction of an patient who is male and has Heart Disease.
+
